@@ -10,4 +10,3 @@ class SUMJAVAPROGRAM {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
-Run Code
